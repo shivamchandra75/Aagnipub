@@ -209,7 +209,6 @@ body{
     grid-gap: 1rem;
 
     .img1{
-      @include flexCenter();
       grid-area: img1;
       background-image: url('../../images/Image-6.svg');
       background-size: auto;

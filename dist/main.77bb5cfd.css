@@ -141,9 +141,6 @@ body {
   grid-gap: 1rem;
 }
 .main .image-gallery .img1 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   grid-area: img1;
   background-image: url("/Image-6.7b2fd148.svg");
   background-size: auto;
